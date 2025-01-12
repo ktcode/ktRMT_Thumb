@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ktRMT_Thumb")(type "KiCad")(uri "${KIPRJMOD}/ktRMT_Thumb.kicad_sym")(options "")(descr "ktRMT_Thumb"))
+)

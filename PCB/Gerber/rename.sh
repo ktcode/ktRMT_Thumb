@@ -1,0 +1,9 @@
+mv Array-F_Cu.gbr ktRMT_Thumb.GTL
+mv Array-B_Cu.gbr ktRMT_Thumb.GBL
+mv Array-B_Silkscreen.gbr ktRMT_Thumb.GBO
+mv Array-F_Silkscreen.gbr ktRMT_Thumb.GTO
+mv Array-B_Mask.gbr ktRMT_Thumb.GBS
+mv Array-F_Mask.gbr ktRMT_Thumb.GTS
+mv Array-Edge_Cuts.gbr ktRMT_Thumb.GML
+mv Array-NPTH.drl ktRMT_Thumb-NPTH.TXT
+mv Array-PTH.drl ktRMT_Thumb.TXT
